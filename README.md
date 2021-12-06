@@ -63,7 +63,7 @@ Aprenda sobre construtores, getters e setters, propriedades, modificadores de ac
 
 Nesse teste você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional em C#.
 
-### Confira site
+### Confira
 https://digitalinnovation.one/
 
 

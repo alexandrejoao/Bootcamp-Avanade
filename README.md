@@ -1,16 +1,18 @@
-# DIO (Digital Innovation One)
+# DIO (Digital Innovation One) <img src="https://raw.githubusercontent.com/alexandrejoao/Bootcamp-Avanade/13e389c9c627249ffeb9fbd0982cfb07f4188599/src/logoDio.svg" width="65px">
 
 É maior comunidade educacional gratuita para desenvolvedores de software aprender, praticar e se conectar com grandes oportunidades. Com especialistas que compartilha e produz conhecimento e criam experiências práticas de aprendizagem que potencializam os talentos de forma rápida, eficiente e divertida.  
 
 #
 
-# Avanade
+# Avanade  <img src="">
+
+
 
 É a principal fornecedora de serviços inovadores digitais e na nuvem, soluções empresariais e experiências lideradas por design, prestados por meio da capacidade do nosso pessoal e do ecossistema da Microsoft.
 
 #
 
-# Bootcamp Decola Tech 2a edição - 2021
+# Bootcamp Decola Tech 2a edição - 2021     <img src="https://github.com/alexandrejoao/Bootcamp-Avanade/blob/main/src/logoAvanade.png" width="55px">
 
 ## Sobre o projeto
 O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 60 horas de duração. 
@@ -60,7 +62,7 @@ Aprenda sobre construtores, getters e setters, propriedades, modificadores de ac
 
 Nesse teste você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional em C#.
 
-### Confira site
+### Confira
 https://digitalinnovation.one/
 
 

@@ -4,8 +4,7 @@
 
 #
 
-# Avanade  <img src="https://github.com/alexandrejoao/Bootcamp-Avanade/blob/main/src/logoAvanade.png" width="35px">
-
+# Avanade  <img src="">
 
 
 
@@ -13,7 +12,7 @@
 
 #
 
-# Bootcamp Decola Tech 2a edição - 2021
+# Bootcamp Decola Tech 2a edição - 2021     <img src="https://github.com/alexandrejoao/Bootcamp-Avanade/blob/main/src/logoAvanade.png" width="55px">
 
 ## Sobre o projeto
 O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 60 horas de duração. 
